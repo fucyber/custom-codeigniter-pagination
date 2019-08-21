@@ -34,7 +34,7 @@ $config['custom'] = array(
         
 /* With BootStrap4 */
 
-$config['custom'] = array(
+$config['bootstrap4'] = array(
             'base_url'             => $uri,
             'per_page'             => $per_page,
             'uri_segment'          => $segment,
