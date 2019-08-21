@@ -1,0 +1,1 @@
+Custom codeigniter pagination style
